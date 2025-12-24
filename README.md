@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   <img src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white" alt="Shopee">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Testei_e_deu_Certo_><-EE4D2D?style=for-the-badge" alt="Badge">
 </p>
 
 ---
