@@ -129,5 +129,5 @@ Sinta-se livre para usar, modificar e distribuir.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Mateus Kaique**
+Desenvolvido por **Mateus Caique**
 🔗 GitHub: [https://github.com/Mateus-Caique-Py](https://github.com/Mateus-Caique-Py)
