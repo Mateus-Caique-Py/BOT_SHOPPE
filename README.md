@@ -33,5 +33,5 @@ Bot inteligente desenvolvido em Python que monitora produtos da Shopee e envia n
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/bot-shopee-monitor.git
+git clone https://github.com/Mateus-Caique-Py/BOT_SHOPPE.git
 cd bot-shopee-monitor
